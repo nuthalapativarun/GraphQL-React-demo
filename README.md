@@ -1,2 +1,2 @@
-# GraphQL-React-demo
-A React app to play with GraphQL
+# Lyrical-GraphQL
+Starter project from a GraphQL course on Udemy.com
